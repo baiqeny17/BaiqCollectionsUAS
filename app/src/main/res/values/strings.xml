@@ -1,0 +1,85 @@
+<resources>
+    //Layout
+    <string name="app_name">Baiq Collections</string>
+    <string name="sosial_meedia">Klik link untuk Follow isntagram saya <a href="https://instagram.com/baiqeny_17?">Instagram</a></string>
+    <string name="judul_toko">Baiq Collections</string>
+    <string name="sepatu_title">Sepatu</string>
+    <string name="slop_title">Slop</string>
+    <string name="sandal_title">Sandal</string>
+    <string name="biodata">Biodata Diri</string>
+    <string name="sosial_media">Sosial Media</string>
+    <string name="tap_picture">(Tekan gambar untuk membuka galeri)</string>
+    //Biodata
+    <string name="nama_lengkap">Nama Lengkap : Baiq Eny</string>
+    <string name="npm">NPM : 200602004</string>
+    <string name="prodi">Prodi : Teknik Informatika</string>
+    <string name="hobi">Hobi : Travelling</string>
+    <string name="alamat">Alamat : Kerongkong</string>
+    <string name="ttl">TTL : Kerongkong, 17 Juni 2002</string>
+    <string name="golongan_darah">Golongan Darah : B</string>
+    <string name="kembali">Kembali</string>
+    //Data Sendal
+    <string name="nama_sendalcoksu">sandal coksu</string>
+    <string name="asal_sendalcoksu">Indonesia</string>
+    <string name="descripsi_sendalcoksu">Aslinya berasal dari Indonesia, dengan ciri khas yang halus+lembut</string>
+    <string name="nama_sendaldaun">sendaldaun</string>
+    <string name="asal_sendaldaun">singapura</string>
+    <string name="descripsi_sendaldaun">Aslinya berasal dari singapura, dengan ciri khas yang halus+nyaman untuk di gunakan</string>
+    <string name="nama_sendalldg">sandalldg</string>
+    <string name="asal_sendalldg">Indonesia</string>
+    <string name="descripsi_sendalldg">Aslinya berasal dari Indonesia, dengan bahan karet yang sangat nyaman untuk di gunakan</string>
+    <string name="nama_sendalpink">sandalpink</string>
+    <string name="asal_sendalpink">Indonesia</string>
+    <string name="descripsi_sendalpink">Aslinya berasal dari Indonesia, dengan ciri khas mempunyai hak sedikit dan bahannya dari karet</string>
+    <string name="nama_sendalhak">sandalhak</string>
+    <string name="asal_sendalhak">Indonesia</string>
+    <string name="descripsi_sendalhak">Aslinya berasal dari Indonesia, dengan ciri khas yang mempunyai pita di atas dengan warna pink dan bahannya dari mika tebal dan suede sintetis</string>
+    <string name="nama_sendallucu">sendallucu</string>
+    <string name="asal_sendallucu">italia</string>
+    <string name="descripsi_sendallucu">Aslinya berasal dari Italia, dengan ciri khas bahannya dari karet dan mempunyai sedikit hak dan nyaman untuk di gunakan</string>
+    //Data Sepatu
+    <string name="nama_sepatu1">Sepatu1</string>
+    <string name="asal_sepatu1">Inggris</string>
+    <string name="descripsi_sepatu1">Aslinya berasal dari Inggriss, dengan ciri khas yang berwarna putih dan sedikit mempunyai warna pink</string>
+    <string name="nama_sepatu2">Sepatu2</string>
+    <string name="asal_sepatu2">jerman</string>
+    <string name="descripsi_sepatu2">Aslinya berasal dari jerman dengan ciri khas yang berwarna putih</string>
+    <string name="nama_sepatucowok">sepatcowok</string>
+    <string name="asal_sepatucowok">Indonesia</string>
+    <string name="descripsi_sepatucowok">"Aslinya berasal dari Indonesia, dengan ciri khas mempunyai tali dan berwarna hitam,dan cocok di gunakan saat liburan "</string>
+    <string name="nama_sepatupink">Sepatupink</string>
+    <string name="asal_sepatupink">Inggris</string>
+    <string name="descripsi_sepatupink">Aslinya berasal dari Inggris, dengan ciri khas bahannya dari karet</string>
+    <string name="nama_sepatu3">Sepatu3</string>
+    <string name="asal_sepatu3">Inggris</string>
+    <string name="descripsi_sepatu3">Aslinya berasal dari Indonesia, dengan ciri khas yang halus+lembut</string>
+    <string name="nama_sepatuputih">Sepatuputih</string>
+    <string name="asal_sepatuputih">Inggris</string>
+    <string name="descripsi_sepatuputih">Aslinya berasal dari Inggris, dengan ciri khas yang berwarna putih dan bahannya dari karet</string>
+    //Data Slop
+    <string name="nama_slopbiru">Slopbiru</string>
+    <string name="asal_slopbiru">Surabaya</string>
+    <string name="descripsi_slopbiru">Aslinya berasal dari Surabaya, dengan ciri khas yang halus+lembut dengan mempunyai warna biru</string>
+    <string name="nama_slopcowok">Slopcowok</string>
+    <string name="asal_slopcowok">Surbaya</string>
+    <string name="descripsi_slopcowok">Aslinya berasal dari Indonesia, dengan ciri khas yang halus+lembut dengan bahan karet yang nyaman saat di gunakan</string>
+    <string name="nama_slophitam">Slophitam</string>
+    <string name="asal_slophitam">Indonesia</string>
+    <string name="descripsi_slophitam">Aslinya berasal dari Indonesia, dengan ciri khas yang halus+lembut dan tebal</string>
+    <string name="nama_slophitamtinggi">Slophitamtinggi</string>
+    <string name="asal_slophitamtinggi">malang</string>
+    <string name="descripsi_slophitamtinggi">Aslinya berasal dari malang, dengan ciri khas yang halus+lembut</string>
+    <string name="nama_slopp">slopp</string>
+    <string name="asal_slopp">Surabaya</string>
+    <string name="descripsi_slopp">Aslinya berasal dari Surabaya, dengan ciri khas yang halus+lembut (K9)</string>
+    <string name="nama_slopcantik">Slopcantikk</string>
+    <string name="asal_slopcantik">Surabaya</string>
+    <string name="descripsi_slopcantik">Aslinya berasal dari Surabaya, dengan ciri khas yang halus+lembut dan sangat nyaman saat di gunaka</string>
+    <string name="follow">Follow Sosial Media Saya di Bawah Ini</string>
+    <string name="list_title">"DAFTAR BERBAGAI "</string>
+    <string name="sepatuu_title">Sepatu</string>
+    <string name="sendall_title">Sandal</string>
+    <string name="slopp_title">Slop</string>
+
+
+</resources>
